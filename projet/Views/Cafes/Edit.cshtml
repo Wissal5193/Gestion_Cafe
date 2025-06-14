@@ -1,0 +1,39 @@
+﻿@model projet.Models.Cafe
+
+@{
+    ViewData["Title"] = "Modifier";
+}
+
+<div class="create-form-container">
+    <h1>Modifier le Café</h1>
+    <h4>Mettre à jour les informations</h4>
+    <hr />
+    <form asp-action="Edit">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <input type="hidden" asp-for="Id" />
+
+        <div class="form-group">
+            <label asp-for="Nom" class="control-label"></label>
+            <input asp-for="Nom" class="form-control" />
+            <span asp-validation-for="Nom" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Prix" class="control-label"></label>
+            <input asp-for="Prix" class="form-control" />
+            <span asp-validation-for="Prix" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <input type="submit" value="Enregistrer" class="btn btn-primary" />
+        </div>
+    </form>
+
+    <a asp-action="Index" class="back-link">Retour à la liste</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,35 @@
+﻿@model IEnumerable<projet.Models.Cafe>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 class="text-center my-4">Liste des cafés</h1>
+
+<p class="text-end mb-3">
+    <a asp-action="Create" class="btn-create">➕ Ajouter un café</a>
+</p>
+
+<table class="table table-custom">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Nom)</th>
+            <th>@Html.DisplayNameFor(model => model.Prix)</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.Nom)</td>
+                <td>@Html.DisplayFor(modelItem => item.Prix) DH</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">✏️ Modifier</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">🔍 Détails</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">🗑️ Supprimer</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

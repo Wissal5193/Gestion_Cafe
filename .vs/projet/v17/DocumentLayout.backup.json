@@ -1,0 +1,457 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sys\\source\\repos\\projet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|c:\\users\\sys\\source\\repos\\projet\\projet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|solutionrelative:projet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|c:\\users\\sys\\source\\repos\\projet\\projet\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|solutionrelative:projet\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|c:\\users\\sys\\source\\repos\\projet\\projet\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|solutionrelative:projet\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|c:\\users\\sys\\source\\repos\\projet\\projet\\controllers\\cafescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|solutionrelative:projet\\controllers\\cafescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|c:\\users\\sys\\source\\repos\\projet\\projet\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|solutionrelative:projet\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|c:\\users\\sys\\source\\repos\\projet\\projet\\views\\cafes\\listeproduit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|solutionrelative:projet\\views\\cafes\\listeproduit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|c:\\users\\sys\\source\\repos\\projet\\projet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|solutionrelative:projet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|c:\\users\\sys\\source\\repos\\projet\\projet\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|solutionrelative:projet\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|c:\\users\\sys\\source\\repos\\projet\\projet\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|solutionrelative:projet\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|c:\\users\\sys\\source\\repos\\projet\\projet\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|solutionrelative:projet\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|c:\\users\\sys\\source\\repos\\projet\\projet\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|solutionrelative:projet\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|c:\\users\\sys\\source\\repos\\projet\\projet\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|solutionrelative:projet\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|c:\\users\\sys\\source\\repos\\projet\\projet\\data\\migrations\\20250531225201_addproduitmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|solutionrelative:projet\\data\\migrations\\20250531225201_addproduitmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|c:\\users\\sys\\source\\repos\\projet\\projet\\controllers\\produitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|solutionrelative:projet\\controllers\\produitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|c:\\users\\sys\\source\\repos\\projet\\projet\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|solutionrelative:projet\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|c:\\users\\sys\\source\\repos\\projet\\projet\\models\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|solutionrelative:projet\\models\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|c:\\users\\sys\\source\\repos\\projet\\projet\\models\\cafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|solutionrelative:projet\\models\\cafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|c:\\users\\sys\\source\\repos\\projet\\projet\\views\\cafes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|solutionrelative:projet\\views\\cafes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|c:\\users\\sys\\source\\repos\\projet\\projet\\views\\cafes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|solutionrelative:projet\\views\\cafes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|c:\\users\\sys\\source\\repos\\projet\\projet\\views\\cafes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|solutionrelative:projet\\views\\cafes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|c:\\users\\sys\\source\\repos\\projet\\projet\\views\\cafes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|solutionrelative:projet\\views\\cafes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|c:\\users\\sys\\source\\repos\\projet\\projet\\views\\cafes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|solutionrelative:projet\\views\\cafes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|c:\\users\\sys\\source\\repos\\projet\\projet\\views\\cafes\\ajouter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|solutionrelative:projet\\views\\cafes\\ajouter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|c:\\users\\sys\\source\\repos\\projet\\projet\\wwwroot\\css\\cafe.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|solutionrelative:projet\\wwwroot\\css\\cafe.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|c:\\users\\sys\\source\\repos\\projet\\projet\\data\\migrations\\20250531181950_ajouttablecafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|solutionrelative:projet\\data\\migrations\\20250531181950_ajouttablecafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|c:\\users\\sys\\source\\repos\\projet\\projet\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|solutionrelative:projet\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|c:\\users\\sys\\source\\repos\\projet\\projet\\wwwroot\\js\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2576F601-1AFA-43A0-987E-DB55AA6D9540}|projet\\projet.csproj|solutionrelative:projet\\wwwroot\\js\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sys\\source\\repos\\projet\\projet\\Program.cs",
+              "RelativeDocumentMoniker": "projet\\Program.cs",
+              "ToolTip": "C:\\Users\\sys\\source\\repos\\projet\\projet\\Program.cs",
+              "RelativeToolTip": "projet\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T23:10:31.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListeProduit.cshtml",
+              "DocumentMoniker": "C:\\Users\\sys\\source\\repos\\projet\\projet\\Views\\Cafes\\ListeProduit.cshtml",
+              "RelativeDocumentMoniker": "projet\\Views\\Cafes\\ListeProduit.cshtml",
+              "ToolTip": "C:\\Users\\sys\\source\\repos\\projet\\projet\\Views\\Cafes\\ListeProduit.cshtml",
+              "RelativeToolTip": "projet\\Views\\Cafes\\ListeProduit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T22:42:31.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sys\\source\\repos\\projet\\projet\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "projet\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sys\\source\\repos\\projet\\projet\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "projet\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T15:32:57.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\sys\\source\\repos\\projet\\projet\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "projet\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\sys\\source\\repos\\projet\\projet\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "projet\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAJgyAAAAAAAAAAAAALAyAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-29T15:33:37.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sys\\source\\repos\\projet\\projet\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "projet\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sys\\source\\repos\\projet\\projet\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "projet\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T23:06:47.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sys\\source\\repos\\projet\\projet\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "projet\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sys\\source\\repos\\projet\\projet\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "projet\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T15:43:18.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CafesController.cs",
+              "DocumentMoniker": "C:\\Users\\sys\\source\\repos\\projet\\projet\\Controllers\\CafesController.cs",
+              "RelativeDocumentMoniker": "projet\\Controllers\\CafesController.cs",
+              "ToolTip": "C:\\Users\\sys\\source\\repos\\projet\\projet\\Controllers\\CafesController.cs",
+              "RelativeToolTip": "projet\\Controllers\\CafesController.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAswKkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T17:45:07.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\sys\\source\\repos\\projet\\projet\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "projet\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\sys\\source\\repos\\projet\\projet\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "projet\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T15:45:37.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\sys\\source\\repos\\projet\\projet\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "projet\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\sys\\source\\repos\\projet\\projet\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "projet\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T23:12:08.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\sys\\source\\repos\\projet\\projet\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "projet\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\sys\\source\\repos\\projet\\projet\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "projet\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T23:13:02.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\sys\\source\\repos\\projet\\projet\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "projet\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\sys\\source\\repos\\projet\\projet\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "projet\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T23:12:03.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\sys\\source\\repos\\projet\\projet\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "projet\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\sys\\source\\repos\\projet\\projet\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "projet\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T23:10:57.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250531225201_AddProduitModel.cs",
+              "DocumentMoniker": "C:\\Users\\sys\\source\\repos\\projet\\projet\\Data\\Migrations\\20250531225201_AddProduitModel.cs",
+              "RelativeDocumentMoniker": "projet\\Data\\Migrations\\20250531225201_AddProduitModel.cs",
+              "ToolTip": "C:\\Users\\sys\\source\\repos\\projet\\projet\\Data\\Migrations\\20250531225201_AddProduitModel.cs",
+              "RelativeToolTip": "projet\\Data\\Migrations\\20250531225201_AddProduitModel.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T22:52:02.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProduitsController.cs",
+              "DocumentMoniker": "C:\\Users\\sys\\source\\repos\\projet\\projet\\Controllers\\ProduitsController.cs",
+              "RelativeDocumentMoniker": "projet\\Controllers\\ProduitsController.cs",
+              "ToolTip": "C:\\Users\\sys\\source\\repos\\projet\\projet\\Controllers\\ProduitsController.cs",
+              "RelativeToolTip": "projet\\Controllers\\ProduitsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T22:41:55.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sys\\source\\repos\\projet\\projet\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "projet\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\sys\\source\\repos\\projet\\projet\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "projet\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T22:49:45.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Produit.cs",
+              "DocumentMoniker": "C:\\Users\\sys\\source\\repos\\projet\\projet\\Models\\Produit.cs",
+              "RelativeDocumentMoniker": "projet\\Models\\Produit.cs",
+              "ToolTip": "C:\\Users\\sys\\source\\repos\\projet\\projet\\Models\\Produit.cs",
+              "RelativeToolTip": "projet\\Models\\Produit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T22:40:43.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sys\\source\\repos\\projet\\projet\\Views\\Cafes\\Index.cshtml",
+              "RelativeDocumentMoniker": "projet\\Views\\Cafes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sys\\source\\repos\\projet\\projet\\Views\\Cafes\\Index.cshtml",
+              "RelativeToolTip": "projet\\Views\\Cafes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T18:38:00.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\sys\\source\\repos\\projet\\projet\\Views\\Cafes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "projet\\Views\\Cafes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\sys\\source\\repos\\projet\\projet\\Views\\Cafes\\Delete.cshtml",
+              "RelativeToolTip": "projet\\Views\\Cafes\\Delete.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T22:21:37.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\sys\\source\\repos\\projet\\projet\\Views\\Cafes\\Details.cshtml",
+              "RelativeDocumentMoniker": "projet\\Views\\Cafes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\sys\\source\\repos\\projet\\projet\\Views\\Cafes\\Details.cshtml",
+              "RelativeToolTip": "projet\\Views\\Cafes\\Details.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T19:23:29.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Cafe.cs",
+              "DocumentMoniker": "C:\\Users\\sys\\source\\repos\\projet\\projet\\Models\\Cafe.cs",
+              "RelativeDocumentMoniker": "projet\\Models\\Cafe.cs",
+              "ToolTip": "C:\\Users\\sys\\source\\repos\\projet\\projet\\Models\\Cafe.cs",
+              "RelativeToolTip": "projet\\Models\\Cafe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T17:41:25.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\sys\\source\\repos\\projet\\projet\\Views\\Cafes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "projet\\Views\\Cafes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\sys\\source\\repos\\projet\\projet\\Views\\Cafes\\Edit.cshtml",
+              "RelativeToolTip": "projet\\Views\\Cafes\\Edit.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T22:17:39.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\sys\\source\\repos\\projet\\projet\\Views\\Cafes\\Create.cshtml",
+              "RelativeDocumentMoniker": "projet\\Views\\Cafes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\sys\\source\\repos\\projet\\projet\\Views\\Cafes\\Create.cshtml",
+              "RelativeToolTip": "projet\\Views\\Cafes\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T20:09:41.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Ajouter.cshtml",
+              "DocumentMoniker": "C:\\Users\\sys\\source\\repos\\projet\\projet\\Views\\Cafes\\Ajouter.cshtml",
+              "RelativeDocumentMoniker": "projet\\Views\\Cafes\\Ajouter.cshtml",
+              "ToolTip": "C:\\Users\\sys\\source\\repos\\projet\\projet\\Views\\Cafes\\Ajouter.cshtml",
+              "RelativeToolTip": "projet\\Views\\Cafes\\Ajouter.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T17:51:29.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "cafe.css",
+              "DocumentMoniker": "C:\\Users\\sys\\source\\repos\\projet\\projet\\wwwroot\\css\\cafe.css",
+              "RelativeDocumentMoniker": "projet\\wwwroot\\css\\cafe.css",
+              "ToolTip": "C:\\Users\\sys\\source\\repos\\projet\\projet\\wwwroot\\css\\cafe.css",
+              "RelativeToolTip": "projet\\wwwroot\\css\\cafe.css",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-29T15:33:27.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250531181950_AjoutTableCafe.cs",
+              "DocumentMoniker": "C:\\Users\\sys\\source\\repos\\projet\\projet\\Data\\Migrations\\20250531181950_AjoutTableCafe.cs",
+              "RelativeDocumentMoniker": "projet\\Data\\Migrations\\20250531181950_AjoutTableCafe.cs",
+              "ToolTip": "C:\\Users\\sys\\source\\repos\\projet\\projet\\Data\\Migrations\\20250531181950_AjoutTableCafe.cs",
+              "RelativeToolTip": "projet\\Data\\Migrations\\20250531181950_AjoutTableCafe.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T18:19:52.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "scripts.js",
+              "DocumentMoniker": "C:\\Users\\sys\\source\\repos\\projet\\projet\\wwwroot\\js\\scripts.js",
+              "RelativeDocumentMoniker": "projet\\wwwroot\\js\\scripts.js",
+              "ToolTip": "C:\\Users\\sys\\source\\repos\\projet\\projet\\wwwroot\\js\\scripts.js",
+              "RelativeToolTip": "projet\\wwwroot\\js\\scripts.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-29T15:33:59.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\sys\\source\\repos\\projet\\projet\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "projet\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\sys\\source\\repos\\projet\\projet\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "projet\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-29T15:34:04.836Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

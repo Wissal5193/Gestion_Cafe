@@ -1,0 +1,31 @@
+﻿@model projet.Models.Cafe
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1 class="text-center my-4">Détails du café</h1>
+
+<div class="details-container">
+    <h4>Café</h4>
+    <hr />
+    <dl class="row_detaile">
+        <dt class="col-sm-4">
+            @Html.DisplayNameFor(model => model.Nom)
+        </dt>
+        <dd class="col-sm-8">
+            @Html.DisplayFor(model => model.Nom)
+        </dd>
+        <dt class="col-sm-4">
+            @Html.DisplayNameFor(model => model.Prix)
+        </dt>
+        <dd class="col-sm-8">
+            @Html.DisplayFor(model => model.Prix) DH
+        </dd>
+    </dl>
+</div>
+
+<div class="details-actions">
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Modifier</a> |
+    <a asp-action="Index">Retour à la liste</a>
+</div>
